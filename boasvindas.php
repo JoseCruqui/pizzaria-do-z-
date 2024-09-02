@@ -2,6 +2,7 @@
 session_start();
 echo "<h1> Bem vindo a minha página  </h1>";
 echo "<hr>";
+echo "<hr>";
 echo "<h2> Seu email e senha foram validados</h2>";
 ?>
 
